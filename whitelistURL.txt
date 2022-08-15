@@ -148,3 +148,11 @@ gmail.com/
 *.polyup.com/
 *.noredink.com/
 *.openupresources.org/
+*.geogebra.org/
+*.generationgenius.com/
+*.chino.k12.ca.us/
+*.startsateight.com/
+*.norcoint.cnusd.k12.ca.us/
+*.chino.k12.ca.us/
+*.newsela.com/
+*.santacruzpl.org/
