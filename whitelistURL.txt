@@ -156,3 +156,7 @@ gmail.com/
 *.chino.k12.ca.us/
 *.newsela.com/
 *.santacruzpl.org/
+*.abqlibrary.org/
+*.cde.ca.gov/
+*.commonsensemedia.org/
+*.cta.org/
