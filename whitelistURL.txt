@@ -146,3 +146,5 @@ gmail.com/
 *.reflexmath.com/
 *.reflexmath.com
 *.polyup.com/
+*.noredink.com/
+*.openupresources.org/
