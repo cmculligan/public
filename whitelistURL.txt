@@ -160,3 +160,4 @@ gmail.com/
 *.cde.ca.gov/
 *.commonsensemedia.org/
 *.cta.org/
+*.aleks.com/
