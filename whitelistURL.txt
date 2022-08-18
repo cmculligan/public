@@ -5,7 +5,6 @@
 *.google.com
 *.compute.amazonaws.com/
 *.1e100.net/
-*.1e100.net
 *.amazonaws.*
 *.google.*
 *.amazonaws.com
