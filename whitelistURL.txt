@@ -125,7 +125,7 @@ update.googleapis.com
 *.gmail.com/
 *.chromeexperiments.com/
 experiments.withgoogle.com/
-curiositystream.com/
+*.curiositystream.com/
 *.wunderground.com/
 *.myacurite.com/
 *.goguardian.com/
@@ -161,4 +161,3 @@ gmail.com/
 *.commonsensemedia.org/
 *.cta.org/
 *.aleks.com/
-*.khanacademy.org/
