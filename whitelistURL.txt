@@ -161,3 +161,4 @@ gmail.com/
 *.commonsensemedia.org/
 *.cta.org/
 *.aleks.com/
+*.khanacademy.org/
