@@ -139,7 +139,7 @@ gmail.com/
 *.gimkit.com/
 *.gimkitconnect.com/
 *.poki.com/
-*. usconstitution.net/*
+*.usconstitution.net/
 *.pixton.com/
 *.ducksters.com/
 *.reflexmath.com/
@@ -160,3 +160,7 @@ gmail.com/
 *.commonsensemedia.org/
 *.cta.org/
 *.aleks.com/
+*.getepic.com/
+*.noredink.com/
+*.geogebra.org/
+*.brilliant.org/
