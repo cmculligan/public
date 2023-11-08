@@ -164,3 +164,7 @@ gmail.com/
 *.noredink.com/
 *.geogebra.org/
 *.brilliant.org/
+*.chess.com/
+*.github.com/
+*.typing.com/
+*.generationgenius.com/
