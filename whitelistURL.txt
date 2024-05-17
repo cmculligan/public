@@ -168,3 +168,4 @@ gmail.com/
 *.github.com/
 *.typing.com/
 *.generationgenius.com/
+*.cabrillo.edu/
