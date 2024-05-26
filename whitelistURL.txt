@@ -171,3 +171,5 @@ gmail.com/
 *.cabrillo.edu/
 *.wevideo.com/
 *.capcut.com/
+*.meetcircle-blue.co/
+*.meetcircle.com/
