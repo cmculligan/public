@@ -168,6 +168,7 @@ gmail.com/
 *.github.com/
 *.typing.com/
 *.generationgenius.com/
+*.openup.org/
 *.cabrillo.edu/
 *.wevideo.com/
 *.capcut.com/
