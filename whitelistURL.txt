@@ -175,3 +175,4 @@ gmail.com/
 *.capcut.com/
 *.meetcircle-blue.co/
 *.meetcircle.com/
+*.ttrsonline.com/
